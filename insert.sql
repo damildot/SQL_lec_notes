@@ -1,0 +1,1 @@
+insert into moviestar(birthday) values ('2007-09-30');
